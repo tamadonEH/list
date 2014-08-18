@@ -57,6 +57,7 @@ Injection پروژه ۱۰ آسیب پذیری اول اپلیکیشن های ت�
 #3
 Rapid 7 Video: Penetration Testing Techniques - DREAD Methodology (2013:2014)<BR>
 از گروه رپید ۷ DREAD ویدئوی تکنیک های تست نفوذپذیری - روش
+(پیاده سازی و ترجمه به فارسی در  ۶ مرداد ۱۳۹۳)
 
 #2
 ElasticaInc Video:OpenSSL Heartbleed Vul & its High-Level Mechanics(2014:2014) <BR>
