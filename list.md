@@ -8,7 +8,7 @@ tamadonEH@gmail.com
 
 #15
 OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014) <BR>
-XSS حمله 
+از اواسپ در دسته بندی حملات XSS حمله 
 
 #14
 OWASP Article: Type of Cross-Site Scripting (2013:2014)<BR>
