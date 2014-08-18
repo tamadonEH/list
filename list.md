@@ -1,7 +1,6 @@
-<center>
-list of research topics in our group
-لیست عناوین تحقیقات انجام شده توسط گروه ما
-</center>
+
+list of research topics in our group<BR>
+لیست عناوین تحقیقات انجام شده توسط گروه
 
 
 #15
