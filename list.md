@@ -6,9 +6,10 @@ https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
 
-#15
+#15 ۱۰ مرداد ۱۳۹۳
 OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014) <BR>
 از اواسپ در دسته بندی حملات XSS حمله <BR>
+(ترجمه به فارسی در ۱۰ مرداد ۱۳۹۳)
 
 #14
 OWASP Article: Type of Cross-Site Scripting (2013:2014)<BR>
