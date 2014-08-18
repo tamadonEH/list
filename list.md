@@ -1,19 +1,42 @@
-list
-====
-
 list of research topics in our group
+لیست عناوین تحقیقات انجام شده توسط گروه ما
+========================================================================================================
+
+#15
+OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014) <BR>
+XSS حمله 
+
+#14
+OWASP Article: Type of Cross-Site Scripting (2013:2014)<BR>
+در مقاله ای از اواسپ XSS انواع حملات
+
+#13
+OWASP Top Ten 2013 Project - A3 Cross-Site Scripting (XSS) (2013:2014) <BR>
+XSS پروژه ۱۰ آسیب پذیری اول اپلیکیشن های تحت وب در سال ۲۰۱۳ از اواسپ- شماره ۳
 
 #12
+PCWorld news: Offensive-Security video about Symantec Endpoint Protection 0day (2014:2014) <BR>
+ PCWorld از Offensive-Security به وسیله گروه امنیتی Symantec Endpoint Protection خبر آسیب پذیری روز-صفرم
 
 #11
+VUPEN blog:Advanced Exploitation of VirtualBox 3D Acceleration VM Esccape Vul(2014:2014) <BR>
+VUPEN توسط شرکت VirtualBox 3D Acceleration VM در escape اکسپلوییت سطح بالای آسیب پذیری از نوع 
 
 #10
+OWASP Attack Category: LDAP Injection (2009:2014) <BR>
+از اواسپ در دسته بندی حملات LDAP تزریق 
 
 #9
+OWASP Attack Category: Server-Side Includes (SSI) Injection (2014:2014)<BR>
+تزریق شاملیت سمت سرور از اواسپ در دسته بندی حملات
 
 #8
+OWASP Attack category: Code Injection (2013:2014)<BR>
+تزریق کد از اواسپ در دسته بندی حملات
 
 #7
+OWASP Attack category: Command Injection (2014:2014) <BR>
+تزریق فرمان از اواسپ در دسته بندی حملات
 
 #6
 Jesus_Hellin in IBMSecurity blog: Citadel's New Trick: Persistent Device Remote Control (2014)<BR>
