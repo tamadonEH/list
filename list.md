@@ -6,46 +6,55 @@ https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
 
-#15 ۱۰ مرداد ۱۳۹۳
+#15
 OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014) <BR>
 از اواسپ در دسته بندی حملات XSS حمله <BR>
-(ترجمه به فارسی در ۱۰ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۲۵ مرداد ۱۳۹۳)
 
 #14
 OWASP Article: Type of Cross-Site Scripting (2013:2014)<BR>
 در مقاله ای از اواسپ XSS انواع حملات<BR>
+(ترجمه به فارسی در ۲۰ مرداد ۱۳۹۳)
 
 #13
 OWASP Top Ten 2013 Project - A3 Cross-Site Scripting (XSS) (2013:2014) <BR>
 XSS پروژه ۱۰ آسیب پذیری اول اپلیکیشن های تحت وب در سال ۲۰۱۳ از اواسپ- شماره ۳<BR>
+(ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)
 
 #12
 PCWorld news: Offensive-Security video about Symantec Endpoint Protection 0day (2014:2014) <BR>
  PCWorld از Offensive-Security به وسیله گروه امنیتی Symantec Endpoint Protection خبر آسیب پذیری روز-صفرم<BR>
+ (ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)
 
 #11
 VUPEN blog:Advanced Exploitation of VirtualBox 3D Acceleration VM Esccape Vul(2014:2014) <BR>
 VUPEN توسط شرکت VirtualBox 3D Acceleration VM در escape اکسپلوییت سطح بالای آسیب پذیری از نوع <BR>
+(ترجمه به فارسی در ۱۷ مرداد ۱۳۹۳)
 
 #10
 OWASP Attack Category: LDAP Injection (2009:2014) <BR>
 از اواسپ در دسته بندی حملات LDAP تزریق <BR>
+(ترجمه به فارسی در ۱۵ مرداد ۱۳۹۳)
 
 #9
 OWASP Attack Category: Server-Side Includes (SSI) Injection (2014:2014)<BR>
 تزریق شاملیت سمت سرور از اواسپ در دسته بندی حملات<BR>
+(ترجمه به فارسی در ۱۴ مرداد ۱۳۹۳)
 
 #8
 OWASP Attack category: Code Injection (2013:2014)<BR>
 تزریق کد از اواسپ در دسته بندی حملات<BR>
+(ترجمه به فارسی در ۱۳ مرداد ۱۳۹۳)
 
 #7
 OWASP Attack category: Command Injection (2014:2014) <BR>
 تزریق فرمان از اواسپ در دسته بندی حملات<BR>
+(ترجمه به فارسی در ۱۲ مرداد ۱۳۹۳)
 
 #6
 Jesus_Hellin in IBMSecurity blog: Citadel's New Trick: Persistent Device Remote Control (2014)<BR>
 ترفند جدیدی در بدافزار سیتادل: تداوم کنترل بر دستگاه ها از راه دور از مسیح هالین در وبلاگ امنیتی آی بی ام <BR>
+(ترجمه به فارسی در ۱۱ مرداد ۱۳۹۳)
 
 #5
 RedHatNews security blog: OpenSSL MITM CCS injection attack (CVE-2014-0224)(2014:2014)<BR>
