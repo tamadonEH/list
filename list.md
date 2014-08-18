@@ -1,6 +1,9 @@
 
 list of research topics in our group<BR>
-لیست عناوین تحقیقات انجام شده توسط گروه
+لیست عناوین تحقیقات انجام شده توسط گروه<BR>
+https://twitter.com/tamadonEH<BR>
+https://facebook.com/tamadonEH<BR>
+tamadonEH@gmail.com
 
 
 #15
