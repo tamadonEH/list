@@ -77,8 +77,10 @@ Rapid 7 Video: Penetration Testing Techniques - DREAD Methodology (2013:2014)<BR
 
 #2
 ElasticaInc Video:OpenSSL Heartbleed Vul & its High-Level Mechanics(2014:2014) <BR>
- و مکانیزم آن از شرکت الستیکاHeartbleed با نام OpenSSL ویدئوی آسیب پذیری 
+ و مکانیزم آن از شرکت الستیکاHeartbleed با نام OpenSSL ویدئوی آسیب پذیری <BR>
+(پیاده سازی و ترجمه به فارسی)
 
 #1
 Rapid7 Report: Security Flaws in Universal Plug and Play:Unplug,Don't Play.(2013:2014) <BR>
-توسط تیم امنیتی رپید ۷ UPnP رخنه امنیتی در
+توسط تیم امنیتی رپید ۷ UPnP رخنه امنیتی در<BR>
+(ترجمه به فارسی)
