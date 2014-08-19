@@ -5,6 +5,10 @@ https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
+#16
+OWASP Attack Category: DOM Based XSS (2013:2014) <BR>
+از اواسپ در دسته بندی حملات DOM Based XSS<BR>
+(ترجمه به فارسی در ۲۸ مرداد ۱۳۹۳)
 
 #15
 OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014) <BR>
