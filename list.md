@@ -5,6 +5,12 @@ https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
+#17
+OWASP Code Review Project: Reviewing Code for Cross-site scripting (2014:2014) <BR>
+از اواسپ در پروژه بازبینی کدها XSS مروری بر کدهای مربوط به <BR>
+(ترجمه به فارسی در ۲۹ مرداد ۱۳۹۳)
+
+
 #16
 OWASP Attack Category: DOM Based XSS (2013:2014) <BR>
 از اواسپ در دسته بندی حملات DOM Based XSS<BR>
