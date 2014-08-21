@@ -6,39 +6,39 @@ https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
 #18
-0x0ptim0us Article: The Art Of Stealth Scanning, Playing With Proxies
+0x0ptim0us Article: The Art Of Stealth Scanning, Playing With Proxies<BR>
 هنر پویش مخفیانه، بازی با پروکسی ها به زبان فارسی <BR>
 (صرفاً مطالعه در ۳۰ مرداد ۱۳۹۳)<BR>
 <a href="http://www.exploit-db.com/wp-content/themes/exploit/docs/32160.pdf" target="_blank"> لینک دانلود</a>
 
 #17
-OWASP Code Review Project: Reviewing Code for Cross-site scripting (2014:2014)
+OWASP Code Review Project: Reviewing Code for Cross-site scripting (2014:2014)<BR>
 مروری بر کدهای مربوط به XSS از اواسپ در پروژه بازبینی کدها <BR>
 (ترجمه به فارسی در ۲۹ مرداد ۱۳۹۳)
 
 
 #16
-OWASP Attack Category: DOM Based XSS (2013:2014)
+OWASP Attack Category: DOM Based XSS (2013:2014)<BR>
 DOM Based XSS از اواسپ در دسته بندی حملات<BR>
 (ترجمه به فارسی در ۲۸ مرداد ۱۳۹۳)
 
 #15
-OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014)
+OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014)<BR>
 حمله XSS از اواسپ در دسته بندی حملات<BR>
 (ترجمه به فارسی در ۲۵ مرداد ۱۳۹۳)
 
 #14
-OWASP Article: Type of Cross-Site Scripting (2013:2014)
+OWASP Article: Type of Cross-Site Scripting (2013:2014)<BR>
 انواع حملات XSS در مقاله ای از اواسپ<BR>
 (ترجمه به فارسی در ۲۰ مرداد ۱۳۹۳)
 
 #13
-OWASP Top Ten 2013 Project - A3 Cross-Site Scripting (XSS) (2013:2014)
+OWASP Top Ten 2013 Project - A3 Cross-Site Scripting (XSS) (2013:2014)<BR>
 پروژه ۱۰ آسیب پذیری اول اپلیکیشن های تحت وب در سال ۲۰۱۳ از OWASP- شماره ۳ XSS یا همان Cross-site Scripting <BR>
 (ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)
 
 #12
-PCWorld news: Offensive-Security video about Symantec Endpoint Protection 0day (2014:2014)
+PCWorld news: Offensive-Security video about Symantec Endpoint Protection 0day (2014:2014)<BR>
 خبر آسیب پذیری روز-صفرم Symantec Endpoint Protection به وسیله گروه امنیتی offensive security از PCworld <BR>
 (ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)
 
