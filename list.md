@@ -7,7 +7,7 @@ tamadonEH@gmail.com
 
 #18
 
-<div style="direction:rtl;">
+<div dir="rtl">
 
 
 0x0ptim0us Article: The Art Of Stealth Scanning, Playing With Proxies <BR>
