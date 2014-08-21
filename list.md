@@ -5,9 +5,11 @@ https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
-<div class="BTitr" style=" text-align:justify; direction:rtl; font-size:35px; color:gold ">
-        						
 #18
+
+<div style="direction:rtl;">
+
+
 0x0ptim0us Article: The Art Of Stealth Scanning, Playing With Proxies <BR>
 هنر پویش مخفیانه، بازی با پروکسی ها به زبان فارسی <BR>
 (صرفاً مطالعه در ۳۰ مرداد ۱۳۹۳)<BR>
