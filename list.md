@@ -38,19 +38,23 @@ OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014)
 #14
 OWASP Article: Type of Cross-Site Scripting (2013:2014)
 <div dir="rtl">
-انواع حملات XSS در مقاله ای از اواسپت<BR>
+انواع حملات XSS در مقاله ای از اواسپ<BR>
 (ترجمه به فارسی در ۲۰ مرداد ۱۳۹۳)
 </div>
 
 #13
-OWASP Top Ten 2013 Project - A3 Cross-Site Scripting (XSS) (2013:2014) <BR>
-XSS پروژه ۱۰ آسیب پذیری اول اپلیکیشن های تحت وب در سال ۲۰۱۳ از اواسپ- شماره ۳<BR>
+OWASP Top Ten 2013 Project - A3 Cross-Site Scripting (XSS) (2013:2014)
+<div dir="rtl">
+پروژه ۱۰ آسیب پذیری اول اپلیکیشن های تحت وب در سال ۲۰۱۳ از OWASP- شماره ۳ XSS یا همان Cross-site Scripting <BR>
 (ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)
+</div>
 
 #12
-PCWorld news: Offensive-Security video about Symantec Endpoint Protection 0day (2014:2014) <BR>
- PCWorld از Offensive-Security به وسیله گروه امنیتی Symantec Endpoint Protection خبر آسیب پذیری روز-صفرم<BR>
- (ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)
+PCWorld news: Offensive-Security video about Symantec Endpoint Protection 0day (2014:2014)
+<div dir="rtl">
+خبر آسیب پذیری روز-صفرم Symantec Endpoint Protection به وسیله گروه امنیتی offensive security از PCworld <BR>
+(ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)
+</div>
 
 #11
 VUPEN blog:Advanced Exploitation of VirtualBox 3D Acceleration VM Esccape Vul(2014:2014) <BR>
