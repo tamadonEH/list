@@ -8,7 +8,7 @@ tamadonEH@gmail.com
 #18
 0x0ptim0us Article: The Art Of Stealth Scanning, Playing With Proxies <BR>
 هنر پویش مخفیانه، بازی با پروکسی ها به زبان فارسی <BR>
-(صرفا مطالعه در ۳۰ مرداد ۱۳۹۳)<BR>
+(صرفاً مطالعه در ۳۰ مرداد ۱۳۹۳)<BR>
 <a href="http://www.exploit-db.com/wp-content/themes/exploit/docs/32160.pdf" target="_blank"> لینک دانلود</a>
 
 #17
