@@ -6,7 +6,7 @@ https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
 #18
-0x0ptim0us Article: The Art Of Stealth Scanning, Playing With Proxies <BR>
+0x0ptim0us Article: The Art Of Stealth Scanning, Playing With Proxies
 <div dir="rtl">
 هنر پویش مخفیانه، بازی با پروکسی ها به زبان فارسی <BR>
 (صرفاً مطالعه در ۳۰ مرداد ۱۳۹۳)<BR>
