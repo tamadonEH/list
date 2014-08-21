@@ -24,22 +24,22 @@ OWASP Attack Category: DOM Based XSS (2013:2014)<BR>
 
 #15
 OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014)<BR>
-از اواسپ در دسته بندی حملات حمله XSS<BR>
+از اواسپ در دسته بندی حملات XSS حمله <BR>
 (ترجمه به فارسی در ۲۵ مرداد ۱۳۹۳)
 
 #14
 OWASP Article: Type of Cross-Site Scripting (2013:2014)<BR>
-انواع حملات XSS در مقاله ای از اواسپ<BR>
+در مقاله ای از اواسپ XSS انواع حملات<BR>
 (ترجمه به فارسی در ۲۰ مرداد ۱۳۹۳)
 
 #13
 OWASP Top Ten 2013 Project - A3 Cross-Site Scripting (XSS) (2013:2014)<BR>
-پروژه ۱۰ آسیب پذیری اول اپلیکیشن های تحت وب در سال ۲۰۱۳ از OWASP- شماره ۳ XSS یا همان Cross-site Scripting <BR>
+XSS پروژه ۱۰ آسیب پذیری اول اپلیکیشن های تحت وب در سال ۲۰۱۳ از اواسپ- شماره ۳ <BR>
 (ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)
 
 #12
 PCWorld news: Offensive-Security video about Symantec Endpoint Protection 0day (2014:2014)<BR>
-خبر آسیب پذیری روز-صفرم Symantec Endpoint Protection به وسیله گروه امنیتی offensive security از PCworld <BR>
+PCworld از offensive security به وسیله گروه امنیتیSymantec Endpoint Protection خبر آسیب پذیری روز-صفرم <BR>
 (ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)
 
 #11
