@@ -13,18 +13,18 @@ tamadonEH@gmail.com
 
 #17
 OWASP Code Review Project: Reviewing Code for Cross-site scripting (2014:2014)<BR>
-مروری بر کدهای مربوط به XSS از اواسپ در پروژه بازبینی کدها <BR>
+از اواسپ در پروژه بازبینی کدها XSS مروری بر کدهای مربوط به <BR>
 (ترجمه به فارسی در ۲۹ مرداد ۱۳۹۳)
 
 
 #16
 OWASP Attack Category: DOM Based XSS (2013:2014)<BR>
-DOM Based XSS از اواسپ در دسته بندی حملات<BR>
+از اواسپ در دسته بندی حملات DOM Based XSS<BR>
 (ترجمه به فارسی در ۲۸ مرداد ۱۳۹۳)
 
 #15
 OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014)<BR>
-حمله XSS از اواسپ در دسته بندی حملات<BR>
+از اواسپ در دسته بندی حملات حمله XSS<BR>
 (ترجمه به فارسی در ۲۵ مرداد ۱۳۹۳)
 
 #14
