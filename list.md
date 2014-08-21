@@ -14,9 +14,11 @@ tamadonEH@gmail.com
 </div>
 
 #17
-OWASP Code Review Project: Reviewing Code for Cross-site scripting (2014:2014) <BR>
+OWASP Code Review Project: Reviewing Code for Cross-site scripting (2014:2014)
+<div dir="rtl">
 از اواسپ در پروژه بازبینی کدها XSS مروری بر کدهای مربوط به <BR>
 (ترجمه به فارسی در ۲۹ مرداد ۱۳۹۳)
+<div>
 
 
 #16
