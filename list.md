@@ -5,6 +5,12 @@ https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
+#18
+0x0ptim0us Article: The Art Of Stealth Scanning, Playing With Proxies <BR>
+هنر پویش مخفیانه، بازی با پروکسی ها به زبان فارسی <BR>
+(صرفا مطالعه در ۳۰ مرداد ۱۳۹۳)<BR>
+<a href="."> asdf</a>
+
 #17
 OWASP Code Review Project: Reviewing Code for Cross-site scripting (2014:2014) <BR>
 از اواسپ در پروژه بازبینی کدها XSS مروری بر کدهای مربوط به <BR>
