@@ -6,7 +6,7 @@ https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
 #19
-Shahin Ramezany from offsectraining: Analyzing a Dom-Based XSS in Yahoo! (2013:2014) <BR>
+Shahin Ramezany Report: Analyzing a Dom-Based XSS in Yahoo! (2013:2014) <BR>
 در یاهو توسط شاهین رمضانیDOM-Based XSS تحلیل و آنالیز حمله <BR>
 (ترجمه به فارسی در ۲ شهریور ۱۳۹۳)
 
