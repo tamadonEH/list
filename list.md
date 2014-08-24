@@ -5,10 +5,15 @@ https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
+#20
+HP security: ZDI-14-173/CVE-2014-0195 OpenSSL DTLS Fragment Out-of-Bounds Write: Breaking up is hard to do<BR>
+«شکستن واقعا سخته»:OpenSSL در TDLS آسیب پذیری از نوع نوشتن در خارج از محدوده،در روند قطعه قطعه کردن با استفاده <BR>
+(ترجمه به فارسی در ۲ شهریور ۱۳۹۳)
+
 #19
 Shahin Ramezany Report: Analyzing a Dom-Based XSS in Yahoo! (2013:2014) <BR>
 در یاهو توسط شاهین رمضانیDOM-Based XSS تحلیل و آنالیز حمله <BR>
-(ترجمه به فارسی در ۲ شهریور ۱۳۹۳)
+(ترجمه به فارسی در ۱ شهریور ۱۳۹۳)
 
 #18
 0x0ptim0us Article: The Art Of Stealth Scanning, Playing With Proxies<BR>
