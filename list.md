@@ -6,7 +6,7 @@ https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
 #20
-HP security: ZDI-14-173/CVE-2014-0195 OpenSSL DTLS Fragment Out-of-Bounds Write: Breaking up is hard to do<BR>
+HP security: ZDI-14-173/CVE-2014-0195 OpenSSL DTLS Fragment Out-of-Bounds Write: Breaking up is hard to do(2014:2014)BR>
 «شکستن واقعا سخته»:OpenSSL در DTLS آسیب پذیری از نوع نوشتن در خارج از محدوده،در روند قطعه قطعه کردن با استفاده <BR>
 (ترجمه به فارسی در ۲ شهریور ۱۳۹۳)
 
