@@ -5,6 +5,11 @@ https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com
 
+#21
+OWASP Attack Category: Cross Site History Manipulation (XSHM) (2010:2014)<BR>
+دستکاری تاریخچه به صورت بین سایتی از اواسپ در دسته بندی حملات<BR>
+(ترجمه به فارسی در ۳ شهریور ۱۳۹۳)
+
 #20
 HP security: ZDI-14-173/CVE-2014-0195 OpenSSL DTLS Fragment Out-of-Bounds Write: Breaking up is hard to do(2014:2014)<BR>
 «شکستن واقعا سخته»:OpenSSL در DTLS آسیب پذیری از نوع نوشتن در خارج از محدوده،در روند قطعه قطعه کردن با استفاده <BR>
