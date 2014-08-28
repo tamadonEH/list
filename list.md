@@ -3,7 +3,8 @@ List of group research topics<BR>
 لیست عناوین تحقیقات انجام شده توسط گروه<BR>
 https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
-tamadonEH@gmail.com
+tamadonEH@gmail.com<BR>a
+https://www.owasp.org/index.php/OWASP_Persian_Translation_Project
 
 #21
 OWASP Attack Category: Cross Site History Manipulation (XSHM) (2010:2014)<BR>
@@ -45,7 +46,9 @@ OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014)<BR>
 #14
 OWASP Article: Type of Cross-Site Scripting (2013:2014)<BR>
 در مقاله ای از اواسپ XSS انواع حملات<BR>
-(ترجمه به فارسی در ۲۰ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۲۰ مرداد ۱۳۹۳)<BR>
+<a href="https://www.owasp.org/images/5/5e/OWASP_Article-_Type_of_Cross-Site_Scripting.pdf" target="_blank"> لینک دانلود از اواسپ</a>
+
 
 #13
 OWASP Top Ten 2013 Project - A3 Cross-Site Scripting (XSS) (2013:2014)<BR>
