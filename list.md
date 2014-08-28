@@ -78,7 +78,8 @@ OWASP Attack Category: Server-Side Includes (SSI) Injection (2014:2014)<BR>
 #8
 OWASP Attack category: Code Injection (2013:2014)<BR>
 تزریق کد از اواسپ در دسته بندی حملات<BR>
-(ترجمه به فارسی در ۱۳ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۱۳ مرداد ۱۳۹۳)<BR>
+<a href="https://www.owasp.org/images/a/a4/OWASP_Attack_category_Code_Injection.pdf" target="_blank"> لینک دانلود از اواسپ</a>
 
 #7
 OWASP Attack category: Command Injection (2014:2014) <BR>
