@@ -4,7 +4,7 @@ List of group research topics<BR>
 https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com<BR>
-https://www.owasp.org/index.php/OWASP_Persian_Translation_Project
+<a href="https://www.owasp.org/index.php/OWASP_Persian_Translation_Project">OWASP Persian Translation Project</a>
 
 #21
 OWASP Attack Category: Cross Site History Manipulation (XSHM) (2010:2014)<BR>
