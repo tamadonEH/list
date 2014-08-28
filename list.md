@@ -68,7 +68,8 @@ VUPEN توسط شرکت VirtualBox 3D Acceleration VM در escape اکسپلوی
 #10
 OWASP Attack Category: LDAP Injection (2009:2014) <BR>
 از اواسپ در دسته بندی حملات LDAP تزریق <BR>
-(ترجمه به فارسی در ۱۵ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۱۵ مرداد ۱۳۹۳)<BR>
+<a href="https://www.owasp.org/images/0/04/OWASP_Attack_Category-_LDAP_Injection.pdf" target="_blank"> لینک دانلود از اواسپ</a>
 
 #9
 OWASP Attack Category: Server-Side Includes (SSI) Injection (2014:2014)<BR>
