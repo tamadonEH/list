@@ -3,7 +3,7 @@ List of group research topics<BR>
 لیست عناوین تحقیقات انجام شده توسط گروه<BR>
 https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
-tamadonEH@gmail.com<BR>a
+tamadonEH@gmail.com<BR>
 https://www.owasp.org/index.php/OWASP_Persian_Translation_Project
 
 #21
