@@ -84,7 +84,8 @@ OWASP Attack category: Code Injection (2013:2014)<BR>
 #7
 OWASP Attack category: Command Injection (2014:2014) <BR>
 تزریق فرمان از اواسپ در دسته بندی حملات<BR>
-(ترجمه به فارسی در ۱۲ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۱۲ مرداد ۱۳۹۳)<BR>
+<a href="https://www.owasp.org/images/b/bc/OWASP_Attack_category-_Command_Injection.pdf" target="_blank"> لینک دانلود از اواسپ</a>
 
 #6
 Jesus_Hellin in IBMSecurity blog: Citadel's New Trick: Persistent Device Remote Control (2014)<BR>
