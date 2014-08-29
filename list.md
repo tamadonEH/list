@@ -32,18 +32,20 @@ Shahin Ramezany Report: Analyzing a Dom-Based XSS in Yahoo! (2013:2014) <BR>
 #17
 OWASP Code Review Project: Reviewing Code for Cross-site scripting (2014:2014)<BR>
 از اواسپ در پروژه بازبینی کدها XSS مروری بر کدهای مربوط به <BR>
-(ترجمه به فارسی در ۲۹ مرداد ۱۳۹۳)
-
+(ترجمه به فارسی در ۲۹ مرداد ۱۳۹۳)<BR>
+<a href="https://www.owasp.org/images/1/1f/Reviewing_Code_for_Cross-site_scripting.pdf" target="_blank"> لینک دانلود از اواسپ</a>
 
 #16
 OWASP Attack Category: DOM Based XSS (2013:2014)<BR>
 از اواسپ در دسته بندی حملات DOM Based XSS<BR>
-(ترجمه به فارسی در ۲۸ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۲۸ مرداد ۱۳۹۳)<BR>
+<a href="https://www.owasp.org/images/0/08/OWASP_Attack_Category-_Dom_Based_XSS.pdf" target="_blank"> لینک دانلود از اواسپ</a>
 
 #15
 OWASP Attack Category: Cross-site Scripting (XSS) (2014:2014)<BR>
 از اواسپ در دسته بندی حملات XSS حمله <BR>
-(ترجمه به فارسی در ۲۵ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۲۵ مرداد ۱۳۹۳)<BR>
+<a href="https://www.owasp.org/images/9/9d/OWASP_Attack_Category-_Cross-site_Scripting_-XSS.pdf" target="_blank"> لینک دانلود از اواسپ</a>
 
 #14
 OWASP Article: Type of Cross-Site Scripting (2013:2014)<BR>
