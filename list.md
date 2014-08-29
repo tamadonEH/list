@@ -14,7 +14,8 @@ OWASP Attack Category: Cross Site History Manipulation (XSHM) (2010:2014)<BR>
 #20
 HP security: ZDI-14-173/CVE-2014-0195 OpenSSL DTLS Fragment Out-of-Bounds Write: Breaking up is hard to do(2014:2014)<BR>
 «شکستن واقعا سخته»:OpenSSL در DTLS آسیب پذیری از نوع نوشتن در خارج از محدوده،در روند قطعه قطعه کردن با استفاده <BR>
-(ترجمه به فارسی در ۲ شهریور ۱۳۹۳)
+(ترجمه به فارسی در ۲ شهریور ۱۳۹۳)<BR>
+<a href="#20"> مخصوص اعضاء</a>
 
 #19
 Shahin Ramezany Report: Analyzing a Dom-Based XSS in Yahoo! (2013:2014) <BR>
@@ -60,12 +61,14 @@ XSS پروژه ۱۰ آسیب پذیری اول اپلیکیشن های تحت و
 #12
 PCWorld news: Offensive-Security video about Symantec Endpoint Protection 0day (2014:2014)<BR>
 PCworld از offensive security به وسیله گروه امنیتیSymantec Endpoint Protection خبر آسیب پذیری روز-صفرم <BR>
-(ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۱۹ مرداد ۱۳۹۳)<BR>
+<a href="#12"> مخصوص اعضاء</a>
 
 #11
 VUPEN blog:Advanced Exploitation of VirtualBox 3D Acceleration VM Esccape Vul(2014:2014) <BR>
 VUPEN توسط شرکت VirtualBox 3D Acceleration VM در escape اکسپلوییت سطح بالای آسیب پذیری از نوع <BR>
-(ترجمه به فارسی در ۱۷ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۱۷ مرداد ۱۳۹۳)<BR>
+<a href="#11"> مخصوص اعضاء</a>
 
 #10
 OWASP Attack Category: LDAP Injection (2009:2014) <BR>
@@ -94,12 +97,14 @@ OWASP Attack category: Command Injection (2014:2014) <BR>
 #6
 Jesus_Hellin in IBMSecurity blog: Citadel's New Trick: Persistent Device Remote Control (2014)<BR>
 ترفند جدیدی در بدافزار سیتادل: تداوم کنترل بر دستگاه ها از راه دور از مسیح هالین در وبلاگ امنیتی آی بی ام <BR>
-(ترجمه به فارسی در ۱۱ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۱۱ مرداد ۱۳۹۳)<BR>
+<a href="#6"> مخصوص اعضاء</a>
 
 #5
 RedHatNews security blog: OpenSSL MITM CCS injection attack (CVE-2014-0224)(2014:2014)<BR>
 از وبلاگ امنیتی ردهت OpenSSL در MITM CCS Injection حمله<BR>
-(ترجمه به فارسی در ۱۰ مرداد ۱۳۹۳)
+(ترجمه به فارسی در ۱۰ مرداد ۱۳۹۳)<BR>
+<a href="#5"> مخصوص اعضاء</a>
 
 #4
 OWASP Top Ten 2013 Project - A1 Injection (2013:2014) <BR>
@@ -110,14 +115,17 @@ Injection پروژه ۱۰ آسیب پذیری اول اپلیکیشن های ت�
 #3
 Rapid 7 Video: Penetration Testing Techniques - DREAD Methodology (2013:2014)<BR>
 از گروه رپید ۷ DREAD ویدئوی تکنیک های تست نفوذپذیری - روش<BR>
-(پیاده سازی و ترجمه به فارسی در  ۶ مرداد ۱۳۹۳)
+(پیاده سازی و ترجمه به فارسی در  ۶ مرداد ۱۳۹۳)<BR>
+<a href="#3"> مخصوص اعضاء</a>
 
 #2
 ElasticaInc Video:OpenSSL Heartbleed Vul & its High-Level Mechanics(2014:2014) <BR>
  و مکانیزم آن از شرکت الستیکاHeartbleed با نام OpenSSL ویدئوی آسیب پذیری <BR>
-(پیاده سازی و ترجمه به فارسی)
+(پیاده سازی و ترجمه به فارسی)<BR>
+<a href="#2"> مخصوص اعضاء</a>
 
 #1
 Rapid7 Report: Security Flaws in Universal Plug and Play:Unplug,Don't Play.(2013:2014) <BR>
 توسط تیم امنیتی رپید ۷ UPnP رخنه امنیتی در<BR>
-(ترجمه به فارسی)
+(ترجمه به فارسی)<BR>
+<a href="#1"> مخصوص اعضاء</a>
