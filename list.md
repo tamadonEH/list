@@ -5,6 +5,11 @@ https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com<BR>
 <a href="https://www.owasp.org/index.php/OWASP_Persian_Translation_Project">OWASP Persian Translation Project</a>
+#22
+IBMSecurity Trusteer's Etay Maor Video: Basics of Man-in-the-Browser (MitB) Malware Targets You (2014:2014)<BR>
+از اِتی مایور در آی بی ام(MitB) ویدئوی مبانی چگونگی حمله بدافزار مردی-در-مرورگر<BR>
+(ترجمه به فارسی در ۹ شهریور ۱۳۹۳)<BR>
+<a href="#22"> مخصوص اعضاء</a>
 
 #21
 OWASP Attack Category: Cross Site History Manipulation (XSHM) (2010:2014)<BR>
