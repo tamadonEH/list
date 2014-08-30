@@ -8,7 +8,7 @@ tamadonEH@gmail.com<BR>
 #22
 IBMSecurity Trusteer's Etay Maor Video: Basics of Man-in-the-Browser (MitB) Malware Targets You (2014:2014)<BR>
 از اِتی مایور در آی بی ام(MitB) ویدئوی مبانی چگونگی حمله بدافزار مردی-در-مرورگر<BR>
-(ترجمه به فارسی در ۹ شهریور ۱۳۹۳)<BR>
+(پیاده سازی و ترجمه به فارسی در ۹ شهریور ۱۳۹۳)<BR>
 <a href="#22"> مخصوص اعضاء</a>
 
 #21
