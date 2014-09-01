@@ -5,6 +5,11 @@ https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com<BR>
 <a href="https://www.owasp.org/index.php/OWASP_Persian_Translation_Project">OWASP Persian Translation Project</a>
+#23
+HP TippingPoint network security survey reveals top network security concerns (2014:2014) <BR>
+HP از TippingPoint مهمترین دغدغه های امنیتِ شبکه بر اساس مطالعات گروه<BR>
+<a href="#23"> مخصوص اعضاء</a>
+
 #22
 IBMSecurity Trusteer's Etay Maor Video: Basics of Man-in-the-Browser (MitB) Malware Targets You (2014:2014)<BR>
 از اِتی مایور در آی بی ام(MitB) ویدئوی مبانی چگونگی حمله بدافزار مردی-در-مرورگر<BR>
