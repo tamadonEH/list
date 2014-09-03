@@ -5,6 +5,11 @@ https://twitter.com/tamadonEH<BR>
 https://facebook.com/tamadonEH<BR>
 tamadonEH@gmail.com<BR>
 <a href="https://www.owasp.org/index.php/OWASP_Persian_Translation_Project">OWASP Persian Translation Project</a>
+#24
+HP Security Research- Zero Day Initiative :There’s No Place Like Localhost: A Welcoming Front Door To Medium Integrity (2014:2014) <BR>
+HP از گروه قراول روز-صفرم شرکت Medium Integrity هیچ جایی برای خلوت کردن وجود ندارد: راهی از درِ جلو برای اجرا در سطح <BR>
+<a href="#24"> مخصوص اعضاء</a>
+
 #23
 HP TippingPoint network security survey reveals top network security concerns (2014:2014) <BR>
 HP از TippingPoint مهمترین دغدغه های امنیتِ شبکه بر اساس مطالعات گروه<BR>
