@@ -24,7 +24,8 @@ IBMSecurity Trusteer's Etay Maor Video: Basics of Man-in-the-Browser (MitB) Malw
 #21
 OWASP Attack Category: Cross Site History Manipulation (XSHM) (2010:2014)<BR>
 دستکاری تاریخچه به صورت بین سایتی از اواسپ در دسته بندی حملات<BR>
-(ترجمه به فارسی در ۳ شهریور ۱۳۹۳)
+(ترجمه به فارسی در ۳ شهریور ۱۳۹۳)<BR>
+<a href="https://www.owasp.org/images/0/04/OWASP_Attack_Category-_Cross_Site_History_Manipulation_%28XSHM%29.pdf" target="_blank"> لینک دانلود از اواسپ</a>
 
 #20
 HP security: ZDI-14-173/CVE-2014-0195 OpenSSL DTLS Fragment Out-of-Bounds Write: Breaking up is hard to do(2014:2014)<BR>
