@@ -8,11 +8,13 @@ tamadonEH@gmail.com<BR>
 #24
 HP Security Research- Zero Day Initiative :There’s No Place Like Localhost: A Welcoming Front Door To Medium Integrity (2014:2014) <BR>
 HP از گروه قراول روز-صفرم شرکت Medium Integrity هیچ جایی برای خلوت کردن وجود ندارد: راهی از درِ جلو برای اجرا در سطح <BR>
+(ترجمه به فارسی در ۱۱ شهریور ۱۳۹۳)<BR>
 <a href="#24"> مخصوص اعضاء</a>
 
 #23
 HP TippingPoint network security survey reveals top network security concerns (2014:2014) <BR>
 HP از TippingPoint مهمترین دغدغه های امنیتِ شبکه بر اساس مطالعات گروه<BR>
+(ترجمه به فارسی در ۱۰ شهریور ۱۳۹۳)<BR>
 <a href="#23"> مخصوص اعضاء</a>
 
 #22
